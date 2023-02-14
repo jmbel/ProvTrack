@@ -7,3 +7,6 @@ Initial app skeleton (v.1):
 - Store the downloaded data into a local MySQL database, one table per dataset.
 - Executie submitted SQL code on the created database.
 - Save all submitted instructions to a version-controlled file (i.e., CSV file URLs and SQL code).
+
+## License
+This project is licensed under the [ISC](https://en.wikipedia.org/wiki/ISC_license) open-source license.
